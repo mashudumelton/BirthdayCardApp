@@ -1,0 +1,38 @@
+page-home {
+
+
+ion-content{   
+    background-image: url(https://www.welovesolo.com/wp-content/uploads/2017/01/59x3g5ise4dqy04.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    // display: block;
+    //  margin-left: auto;
+    //  margin-right: auto;
+    //  width: 100px;
+    //  height:100px;
+    }
+ 
+    
+    #me{
+     h1{
+         text-align: center;
+         color:lightblue;
+     }
+    }
+    #mash{
+        h1{
+           position: fixed;
+           bottom: 0px; 
+           color:lightblue;
+           text-align: center;
+        }
+       }
+       ion-title{
+        text-align: center;
+    }
+}
+
+
+
+
+
