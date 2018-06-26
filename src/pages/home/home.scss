@@ -2,14 +2,19 @@ page-home {
 
 
 ion-content{   
-    background-image: url(https://www.welovesolo.com/wp-content/uploads/2017/01/59x3g5ise4dqy04.jpg);
+    background-image: url(https://www.colourbox.com/preview/3823826-big-vector-illustration-of-birthday-cake-with-burning-candles.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
+    // background-size:cover;
     // display: block;
-    //  margin-left: auto;
-    //  margin-right: auto;
-    //  width: 100px;
-    //  height:100px;
+    //   margin-left: auto;
+    // margin-right: auto;
+    //   width: 100px;
+     background-position: center;
+     position: 0%;
+     margin: 56;
+     background-size: contain;
+     padding: 65536;
+     
     }
  
     
@@ -20,11 +25,12 @@ ion-content{
      }
     }
     #mash{
-        h1{
-           position: fixed;
+        h2{
+        
            bottom: 0px; 
            color:lightblue;
            text-align: center;
+           position: fixed;
         }
        }
        ion-title{
